@@ -1,0 +1,6 @@
+.main {
+  color: black;
+  background-color: hsl(0, 0%, 100%);
+  display: flex;
+  flex-direction: row;
+}
